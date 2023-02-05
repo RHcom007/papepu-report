@@ -1,0 +1,5 @@
+{
+    "require": {
+        "zamzar/zamzar-php": "^1.0"
+    }
+}
